@@ -4,6 +4,6 @@ Languages and frameworks : JavaScript, Python, C#, Java, C++, ASP.NET Core, jQue
 
 Database: SQL(MySQL), PostgreSQL
 
-Other: HTML/CSS, PHP, Git, Unit Test framework, Selenium IDE/ Web Driver
+Other: HTML/CSS, PHP, Git, Unit Test framework, Selenium IDE/ Web Driver, Unix terminal, Shell Scripting
 
 You can find me at: https://www.linkedin.com/in/shivam-janda/
