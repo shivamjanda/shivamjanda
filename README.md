@@ -3,7 +3,8 @@
 
 🧑‍💻 Aspiring developer sharing my projects and my journey in tech<br/> 
 🧑‍🎓 Studying [Computer Programming and Analysis] at Durham College 
-    and then transferring to Ontario Tech University for my [Computer Science] degree<br/>
+    and then transferring to Ontario Tech University 
+    for my [Computer Science] degree<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivamjanda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
