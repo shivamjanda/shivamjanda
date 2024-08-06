@@ -18,7 +18,7 @@
 
 JavaScript, Python, C#, Java, C++, AJAX, WPF, XAML, ASP.NET Core, jQuery, .NET framwork, Node.js, Express.js, React.js, REST API's, COBOL, VITE, Three.js<br/>  
 
-Database: SQL(MySQL), PostgreSQL, NoSQL, MongoDB, AWS<br/> 
+Database: SQL(MySQL), PostgreSQL, NoSQL, MongoDB, Django, AWS<br/> 
 
 Other: HTML/CSS, PHP, Git, Unit Test framework, Selenium IDE/ Web Driver, Unix terminal, Shell Scripting<br/> 
 
