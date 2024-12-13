@@ -16,7 +16,7 @@
 
 *Projects from school / personal*
 
-JavaScript, Python, C#, Java, C++, AJAX, WPF, XAML, ASP.NET Core, jQuery, .NET framwork, Node.js, Express.js, React.js, REST API's, COBOL, VITE, Three.js<br/>  
+JavaScript, Python, C#, Java, C++, AJAX, WPF, XAML, ASP.NET Core, jQuery, .NET framwork, React, Node.js, Express.js, React.js, REST API's, COBOL, VITE, Three.js<br/>  
 
 Database: SQL(MySQL), PostgreSQL, NoSQL, MongoDB, Django, AWS<br/> 
 
